@@ -1,2 +1,1 @@
-console.log("\"Shaman\"\n \"Kirill\"\n \"Daniil\"");
-var x = "веб-програмирование - это круто!";
+var a=[2,5,4,1,3];
